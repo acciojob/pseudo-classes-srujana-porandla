@@ -2,3 +2,38 @@
 .root{
 	background-color:rgb(135, 206, 235);
 }
+.first-child{
+	background-color:black;
+	color:white;
+}
+.last-child{
+	color:red;
+}
+
+.first{
+	background-color: white;
+	width: 50%;
+	padding:10px;
+	font-size:22px;
+}
+.second{
+	width: 50%;
+	padding:10px;
+	background-color:gray;
+}
+.third{
+	width: 50%;
+	padding:10px;
+	background-color:pink;
+}
+.fourth{
+	width: 50%;
+	padding:10px;
+	background-color:pink;
+}
+.fifth{
+	width: 50%;
+	padding:10px;
+	font-size:22px;
+	background-color:pink;
+}
